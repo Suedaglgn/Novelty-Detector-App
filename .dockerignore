@@ -1,0 +1,8 @@
+catboost_info
+.ipynb_checkpoints
+*.ipynb
+*.csv
+*.txt
+*.tsv
+*.json
+!requirements.txt
